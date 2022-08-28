@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-19%20hrs%2036%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-19%20hrs%2040%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-31%20Thousand%20lines%20of%20code-blue)
 
@@ -32,14 +32,14 @@ Sunday       2 commits      ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Lisbon
 
 💬 Programming Languages: 
-JavaScript               3 hrs 33 mins       █████████████████████████   100.0%
+JavaScript               3 hrs 37 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-DealersDiary             3 hrs 23 mins       ████████████████████████░   95.5% 
-Unknown Project          9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.5%
+DealersDiary             3 hrs 28 mins       ████████████████████████░   95.58% 
+Unknown Project          9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.42%
 
 💻 Operating System: 
-Windows                  3 hrs 33 mins       █████████████████████████   100.0%
+Windows                  3 hrs 37 mins       █████████████████████████   100.0%
 
 ```
 
@@ -52,5 +52,5 @@ JavaScript               1 repo              ███████████�
 
 
 
- Last Updated on 28/08/2022 23:14:48 UTC
+ Last Updated on 28/08/2022 23:31:50 UTC
 <!--END_SECTION:waka-->
