@@ -32,13 +32,13 @@ Sunday       2 commits      ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Lisbon
 
 💬 Programming Languages: 
-HTML                     4 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-vue                      4 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  4 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -51,5 +51,5 @@ JavaScript               1 repo              ███████████�
 
 
 
- Last Updated on 25/10/2022 23:00:31 UTC
+ Last Updated on 25/10/2022 23:21:09 UTC
 <!--END_SECTION:waka-->
