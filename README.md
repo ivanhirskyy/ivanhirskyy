@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-21%20hrs%2025%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-22%20hrs%2018%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-43%20Thousand%20lines%20of%20code-blue)
 
@@ -32,13 +32,18 @@ Sunday       2 commits      ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Lisbon
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Vue.js                   26 mins             ████████████░░░░░░░░░░░░░   49.95% 
+JSON                     19 mins             █████████░░░░░░░░░░░░░░░░   36.79% 
+HTML                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   11.46% 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.66% 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.13%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+vue-todo                 47 mins             ██████████████████████░░░   88.54% 
+vue                      6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   11.46%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  53 mins             █████████████████████████   100.0%
 
 ```
 
@@ -51,5 +56,5 @@ JavaScript               1 repo              ███████████�
 
 
 
- Last Updated on 11/11/2022 01:20:19 UTC
+ Last Updated on 11/11/2022 03:12:19 UTC
 <!--END_SECTION:waka-->
