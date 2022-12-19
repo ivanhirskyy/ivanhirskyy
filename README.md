@@ -32,13 +32,13 @@ Sunday       3 commits      ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Lisbon
 
 💬 Programming Languages: 
-Vue.js                   2 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-vue-todo                 2 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  2 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -52,5 +52,5 @@ Vue                      1 repo              ███████████�
 
 
 
- Last Updated on 19/12/2022 00:01:17 UTC
+ Last Updated on 19/12/2022 01:10:26 UTC
 <!--END_SECTION:waka-->
