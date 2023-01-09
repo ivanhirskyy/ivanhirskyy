@@ -45,12 +45,12 @@ No Activity Tracked This Week
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               1 repo              ████████████░░░░░░░░░░░░░   50.0% 
-Vue                      1 repo              ████████████░░░░░░░░░░░░░   50.0%
+JavaScript               2 repos             ████████████████░░░░░░░░░   66.67% 
+Vue                      1 repo              ████████░░░░░░░░░░░░░░░░░   33.33%
 
 ```
 
 
 
- Last Updated on 09/01/2023 11:46:10 UTC
+ Last Updated on 09/01/2023 11:52:31 UTC
 <!--END_SECTION:waka-->
