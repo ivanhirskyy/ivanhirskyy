@@ -32,13 +32,13 @@ Sunday       3 commits      ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Lisbon
 
 💬 Programming Languages: 
-JavaScript               23 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-RouletteBot              23 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  23 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -52,5 +52,5 @@ Vue                      1 repo              ████████░░░�
 
 
 
- Last Updated on 18/01/2023 00:38:10 UTC
+ Last Updated on 18/01/2023 02:09:22 UTC
 <!--END_SECTION:waka-->
