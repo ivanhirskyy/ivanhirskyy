@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-30%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-30%20hrs%2027%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-71%20Thousand%20lines%20of%20code-blue)
 
@@ -32,13 +32,19 @@ Sunday       3 commits      ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Lisbon
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+HTML                     5 mins              ███████████░░░░░░░░░░░░░░   46.56% 
+JSON                     3 mins              ██████░░░░░░░░░░░░░░░░░░░   25.55% 
+JavaScript               2 mins              █████░░░░░░░░░░░░░░░░░░░░   20.46% 
+Python                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   5.3% 
+Vue.js                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.14%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+escrapador-da-moda       5 mins              ███████████░░░░░░░░░░░░░░   47.48% 
+DealersDiary             5 mins              ███████████░░░░░░░░░░░░░░   47.18% 
+RouletteBot              0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   5.34%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  11 mins             █████████████████████████   100.0%
 
 ```
 
@@ -52,5 +58,5 @@ Vue                      1 repo              ██████░░░░░�
 
 
 
- Last Updated on 19/01/2023 01:06:51 UTC
+ Last Updated on 19/01/2023 02:26:21 UTC
 <!--END_SECTION:waka-->
