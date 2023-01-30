@@ -32,14 +32,13 @@ Sunday       3 commits      ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Lisbon
 
 💬 Programming Languages: 
-JSON                     0 secs              ████████████████████░░░░░   80.19% 
-TypeScript               0 secs              █████░░░░░░░░░░░░░░░░░░░░   19.81%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-escrapador-da-moda       0 secs              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  0 secs              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -53,5 +52,5 @@ Vue                      1 repo              ██████░░░░░�
 
 
 
- Last Updated on 30/01/2023 00:01:20 UTC
+ Last Updated on 30/01/2023 01:09:42 UTC
 <!--END_SECTION:waka-->
