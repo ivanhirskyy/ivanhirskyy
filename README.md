@@ -30,13 +30,14 @@ Sunday                   21 commits          ██████░░░░░�
 🕑︎ Time Zone: Europe/Lisbon
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JSON                     0 secs              ████████████████████░░░░░   80.04 % 
+Vue.js                   0 secs              █████░░░░░░░░░░░░░░░░░░░░   19.96 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+escrapador-da-moda       0 secs              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  0 secs              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -50,5 +51,5 @@ Vue                      1 repo              ████░░░░░░░�
 
 
 
- Last Updated on 07/05/2023 23:01:08 UTC
+ Last Updated on 07/05/2023 23:14:14 UTC
 <!--END_SECTION:waka-->
