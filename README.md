@@ -30,14 +30,13 @@ Sunday                   21 commits          ██████░░░░░�
 🕑︎ Time Zone: Europe/Lisbon
 
 💬 Programming Languages: 
-TypeScript               44 mins             █████████████████████████   99.99 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-reality-qr               44 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  44 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -51,5 +50,5 @@ Vue                      1 repo              ████░░░░░░░�
 
 
 
- Last Updated on 16/05/2023 23:01:28 UTC
+ Last Updated on 16/05/2023 23:15:10 UTC
 <!--END_SECTION:waka-->
