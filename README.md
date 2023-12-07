@@ -1,6 +1,4 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-32%20hrs%2039%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-604.9%20thousand%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
@@ -51,5 +49,5 @@ Vue                      1 repo              ████░░░░░░░�
 
 
 
- Last Updated on 06/12/2023 23:56:27 UTC
+ Last Updated on 07/12/2023 00:28:32 UTC
 <!--END_SECTION:waka-->
