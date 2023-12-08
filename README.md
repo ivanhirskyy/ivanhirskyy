@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-32%20hrs%2039%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-32%20hrs%2050%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-604.9%20thousand%20lines%20of%20code-blue)
 
@@ -30,13 +30,13 @@ Sunday                   22 commits          ██████░░░░░�
 🕑︎ Time Zone: Europe/Lisbon
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+PHP                      10 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+web                      10 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  10 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -51,5 +51,5 @@ Vue                      1 repo              ████░░░░░░░�
 
 
 
- Last Updated on 08/12/2023 00:01:09 UTC
+ Last Updated on 08/12/2023 01:03:26 UTC
 <!--END_SECTION:waka-->
