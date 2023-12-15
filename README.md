@@ -30,13 +30,13 @@ Sunday                   22 commits          ██████░░░░░�
 🕑︎ Time Zone: Europe/Lisbon
 
 💬 Programming Languages: 
-PHP                      10 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-web                      10 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  10 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -51,5 +51,5 @@ Vue                      1 repo              ████░░░░░░░�
 
 
 
- Last Updated on 15/12/2023 00:30:27 UTC
+ Last Updated on 15/12/2023 01:40:27 UTC
 <!--END_SECTION:waka-->
