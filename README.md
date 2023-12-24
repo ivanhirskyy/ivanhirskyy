@@ -30,16 +30,13 @@ Sunday                   22 commits          ██████░░░░░�
 🕑︎ Time Zone: Europe/Lisbon
 
 💬 Programming Languages: 
-JavaScript               47 mins             █████████████████████████   98.44 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Unknown Project          36 mins             ███████████████████░░░░░░   74.49 % 
-aoc                      12 mins             ██████░░░░░░░░░░░░░░░░░░░   25.51 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  48 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -54,5 +51,5 @@ Vue                      1 repo              ████░░░░░░░�
 
 
 
- Last Updated on 24/12/2023 00:02:03 UTC
+ Last Updated on 24/12/2023 01:09:34 UTC
 <!--END_SECTION:waka-->
