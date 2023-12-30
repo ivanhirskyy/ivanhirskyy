@@ -42,14 +42,14 @@ No Activity Tracked This Week
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               3 repos             ███████████░░░░░░░░░░░░░░   42.86 % 
-TypeScript               2 repos             ███████░░░░░░░░░░░░░░░░░░   28.57 % 
-Vim Script               1 repo              ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-Vue                      1 repo              ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+JavaScript               3 repos             ████████████░░░░░░░░░░░░░   50.00 % 
+Vim Script               1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+Vue                      1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+TypeScript               1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
 ```
 
 
 
 
- Last Updated on 30/12/2023 00:00:08 UTC
+ Last Updated on 30/12/2023 00:51:38 UTC
 <!--END_SECTION:waka-->
