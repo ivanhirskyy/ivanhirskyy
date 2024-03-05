@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-36%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-36%20hrs%2024%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-604.9%20thousand%20lines%20of%20code-blue)
 
@@ -30,13 +30,18 @@ Sunday                   22 commits          ██████░░░░░�
 🕑︎ Time Zone: Europe/Lisbon
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+SCSS                     7 mins              █████████████░░░░░░░░░░░░   50.18 % 
+JSON                     4 mins              ████████░░░░░░░░░░░░░░░░░   31.10 % 
+Vue.js                   2 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.65 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+BaseCorporateHub         10 mins             ██████████████████░░░░░░░   70.70 % 
+pro-precision            4 mins              ███████░░░░░░░░░░░░░░░░░░   29.30 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  14 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -50,5 +55,5 @@ Vue                      1 repo              █████░░░░░░�
 
 
 
- Last Updated on 05/03/2024 00:00:19 UTC
+ Last Updated on 05/03/2024 01:01:24 UTC
 <!--END_SECTION:waka-->
